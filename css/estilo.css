@@ -15,3 +15,17 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.box {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#b1 {
+    background-color: blue;
+}
+
+#b2 {
+    background-color: green;
+}
